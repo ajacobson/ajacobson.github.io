@@ -2,6 +2,10 @@
 *~
 *.sw[p_]
 
+# Emacs
+.\#*
+\#*\#
+
 # Sublime Text
 *.sublime-project
 *.sublime-workspace
